@@ -1,0 +1,21 @@
+{
+  "welcome": "Bienvenue",
+  "login": {
+    "title": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Soumettre"
+  },
+  "errors": {
+    "required": "Ce champ est requis",
+    "invalid": "Valeur invalide"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "bienvenue_message": "Bienvenue sur mon Portfolio"
+  }
+}
